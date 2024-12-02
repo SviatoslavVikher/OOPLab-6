@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\OOPLab 6\bin\Debug\net8.0\OOPLab 6.exe
+C:\Users\Admin\source\repos\OOPLab 6\bin\Debug\net8.0\OOPLab 6.deps.json
+C:\Users\Admin\source\repos\OOPLab 6\bin\Debug\net8.0\OOPLab 6.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPLab 6\bin\Debug\net8.0\OOPLab 6.dll
+C:\Users\Admin\source\repos\OOPLab 6\bin\Debug\net8.0\OOPLab 6.pdb
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.dll
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\refint\OOPLab 6.dll
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.pdb
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\OOPLab 6.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOPLab 6\obj\Debug\net8.0\ref\OOPLab 6.dll
